@@ -36,7 +36,7 @@ I'm a final year Computer Science student with a passion for software engineerin
 
 
 ### Leetcode:
-https://leetcard.jacoblin.cool/xmaaazz?theme=nord&font=Iceberg
+![](https://leetcard.jacoblin.cool/xmaaazz?theme=nord&font=Iceberg) 
 
 🌱 Currently exploring new technologies and working on personal projects.
 
