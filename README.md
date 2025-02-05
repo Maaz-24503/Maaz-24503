@@ -34,5 +34,9 @@ I'm a final year Computer Science student with a passion for software engineerin
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
+
+### Leetcode:
+https://leetcard.jacoblin.cool/xmaaazz?theme=nord&font=Iceberg
+
 🌱 Currently exploring new technologies and working on personal projects.
 
