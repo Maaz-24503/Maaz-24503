@@ -38,5 +38,8 @@ I'm a final year Computer Science student with a passion for software engineerin
 ### Leetcode:
 ![](https://leetcard.jacoblin.cool/xmaaazz?theme=nord&font=Iceberg) 
 
-🌱 Currently exploring new technologies and working on personal projects.
+### Github
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maaz-24503&show_icons=true&locale=en&layout=compact" alt="Maaz-24503" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Maaz-24503&" alt="Maaz-24503" /></p>
 
