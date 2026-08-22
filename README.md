@@ -1,6 +1,6 @@
 # Hi, I'm Maaz 👋
 
-I'm software engineer with a passion for theoretical computer science. I have worked with:
+I'm a software engineer with a passion for theoretical computer science. I have worked with:
 
 ### Languages:
 <p>
